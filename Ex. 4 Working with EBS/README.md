@@ -146,7 +146,8 @@ This confirmed that the EBS volume provides persistent storage even after instan
 
 ### Screenshot 3: Mounted Volume with Data
 
-<img width="1920" height="1080" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/918833d8-8a23-45eb-a5cc-0f486a9612ac" />
+<img width="1920" height="1080" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/7fdef5a2-c17c-47b0-9c08-8f86d135329f" />
+
 
 
 ---
